@@ -1,0 +1,14 @@
+body{
+    background-color: antiquewhite;
+}
+.container{
+    width: 50%;
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+    border: 1px solid black;
+}
+.parent{
+    width: 100%;
+    display: flex;
+}
